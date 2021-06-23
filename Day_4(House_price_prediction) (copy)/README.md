@@ -1,1 +1,0 @@
-# Job-Change-into-Data-Science-Domain-prediction-using-Naive-Bayes-Classifier
