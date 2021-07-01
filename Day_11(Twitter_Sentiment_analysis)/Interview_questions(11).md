@@ -66,8 +66,6 @@ We can handle skewed data using transformations such as square, log, square, squ
 
 ![img](https://miro.medium.com/max/510/0*NVIU70NTT6o-4b25.gif)
 
-https://medium.com/@TheDataGyan/day-8-data-transformation-skewness-normalization-and-much-more-4c144d370e55
-
 # 8. What do you mean by data transformation?
 
 Data transformation consolidated or aggregate your data columns. It may impact your machine learning model performance. There are the following strategies to transform data:
@@ -76,12 +74,6 @@ Data transformation consolidated or aggregate your data columns. It may impact y
 - Aggregate your data
 - Scale or normalize your data for example scaling income column between 0 and 1 range.
 - Discretize your data for example convert continuous age column into the range 0–10, 11–20, and so on. Or we can also convert the continuous age column into conceptual labels such as youth, middle, and senior.
-
-![img](https://miro.medium.com/max/30/0*evCkszniSvRQIs8Z.png?q=20)
-
-![img](https://miro.medium.com/max/514/0*evCkszniSvRQIs8Z.png)
-
-https://machinelearninggeek.com/
 
 # 9. How do you select the important features in your data?
 
@@ -121,8 +113,6 @@ heteroscedasticity is a situation where the variability of a variable is unequal
 
 ![img](https://miro.medium.com/max/500/0*tmeF3oOFj3dtjWGx)
 
-http://www.statsmakemecry.com/smmctheblog/confusing-stats-terms-explained-heteroscedasticity-heteroske.html
-
 # 13. What are dummy variables?
 
 In Regression analysis, we need to convert all the categorical columns into binary variables. Such variables are known as dummy variables. The dummy variable is also known as an indicator variable, design variable, Boolean indicator, categorical variable, binary variable, or qualitative variable. It takes only 0 or 1 to indicate the absence or presence of some categorical effect that may be expected to shift the outcome. K categories will takes K-1 dummy variables. For example, you can see the eye color and gender columns converted into one-hot encoded binary values.
@@ -139,8 +129,6 @@ Label encoding is a kind of integer encoding. Here, each unique category value i
 
 ![img](https://miro.medium.com/max/418/0*g8hoZj_gfZgE84A7.png)
 
-https://huntdatascience.wordpress.com/2019/07/26/encoding-categorical-variables/
-
 Ordinal encodings is a label encoding with an order in the encoded values.
 
 # 15. Explain one-hot encoding.
@@ -151,4 +139,3 @@ One hot encoding is used to encode the categorical column. It replaces a categor
 
 ![img](https://miro.medium.com/max/700/0*31IqYlv1eqWJ7BKn.png)
 
-https://etlpoint.com/feature-encoding-with-python/
