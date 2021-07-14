@@ -1,0 +1,1 @@
+# Income-of-a-Person-Prediction-using-ANN-Architecture
